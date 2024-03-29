@@ -8,11 +8,14 @@
 - Utiliza JPA para la persistencia de datos.
 
 ## Capturas
-![Capture Menu](src/main/resources/cap1.png)
+![Capture Menu](src/main/resources/img/cap1.png)
 > Menú del sistema
-![Capture Cargar](src/main/resources/cap2.png)
+
+![Capture Cargar](src/main/resources/img/cap2.png)
 > Cargar datos
-![Capture Ver](src/main/resources/cap3.png)
+
+![Capture Ver](src/main/resources/img/cap3.png)
 > Consultar datos
-![Capture Editar](/src/main/resources/cap4.png)
+
+![Capture Editar](src/main/resources/img/cap4.png)
 > Editar datos
