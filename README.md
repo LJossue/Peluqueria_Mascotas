@@ -1,4 +1,4 @@
-#Peluquería de Mascotas **Oh Meow-Meow**
+# Peluquería de Mascotas **Oh Meow-Meow**
 
 - Aplicación de escritorio con funcionalidad CRUD (Crear, Leer, Actualizar, Eliminar).
 - Diseñada para gestionar mascotas y datos de sus dueños.
